@@ -1,0 +1,1 @@
+to get next auth secret key run : npx auth secret 
